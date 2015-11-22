@@ -1,4 +1,1 @@
-hello_world
-===========
-
-first
+Diffie-Hellman lab
